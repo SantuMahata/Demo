@@ -10,7 +10,7 @@ if(isset($_SESSION["user"]))
 }
 else
 {
-	echo"YOU ARE NOT LOGDIN";
+	echo"YOU ARE NOT LOGEDIN";
 }
 
 ?>
